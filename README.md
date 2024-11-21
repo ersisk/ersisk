@@ -29,6 +29,6 @@ Tools, languages, and other things that I like to work with.
 
 ## Contact
 
-- <a href='mailto:ersan.sk@gmail.com'>ersan.sk@gmail.com</a>
+- <a href='mailto:info@ersanisk.me'>info@ersanisk.me</a>
 - [medium](https://medium.com/@ersan.sk)
 - [Linkedin Profile](https://www.linkedin.com/in/er%C5%9Fan-i%C5%9F%C4%B1k-b6b308a4)
