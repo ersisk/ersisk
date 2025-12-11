@@ -32,5 +32,5 @@ My favorite tech stack and tools:
 | Platform | Link |
 |----------|------|
 | 📧 Email | [info@ersanisk.me](mailto:info@ersanisk.me) |
-| [![Medium](https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white)](https://medium.com/@ersanisk) | [@ersanisk](https://medium.com/@ersanisk) |
-| [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ersanisk) | [Ersan Işık](https://linkedin.com/in/ersanisk) |
+| [![Medium](https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white)](https://medium.com/@ersan.sk) | [@ersanisk](https://medium.com/@ersan.sk) |
+| [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/er%C5%9Fan-i%C5%9F%C4%B1k-b6b308a4) | [Ersan Işık]([https://linkedin.com/in/ersanisk](https://www.linkedin.com/in/er%C5%9Fan-i%C5%9F%C4%B1k-b6b308a4)) |
